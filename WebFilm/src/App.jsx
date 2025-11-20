@@ -10,7 +10,7 @@ import ShowTimes from './frontend/pages/showTimes';
 import Booking from './frontend/pages/Booking';
 import User from './frontend/pages/user';
 import MyTicket from './frontend/pages/MyTicket';
-import Prices from './frontend/pages/prices';
+import Prices from './frontend/pages/Prices';
 import ImageUpload from './frontend/pages/ImageUpload';
 import TheaterDetail from './frontend/pages/TheaterDetail';
 import { notification } from 'antd';
